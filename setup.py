@@ -12,7 +12,7 @@ setuptools.setup(
     name='chocobo',
     license="MIT",
     description='chocobo is a python package for delicious chocobo recipes.',
-    version='v0.0.3',
+    version='v0.0.4',
     long_description=README,
     url='https://github.com/shaypal5/chocobo',
     packages=setuptools.find_packages(),

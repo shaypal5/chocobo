@@ -2,4 +2,6 @@
 
 from .chocobo import (  # noqa: F401
       chocobo_roast,
+      zelda_pie,
 )
+del chocobo
